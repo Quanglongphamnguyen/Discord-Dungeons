@@ -10,7 +10,7 @@ Chào mừng đến với hướng dẫn Bot Discord Dungeons! Tại đây bạn
 
  Mỗi lần bạn lên cấp, bạn sẽ nhận được 5 điểm thuộc tính. Bạn có thể cộng các điểm này bằng cách sử dụng `#!assign <chỉ số> <số điểm cộng>`.
 
- Dưới đây là các chỉ số có thể có để chỉ định điểm chỉ số với: XP Boost, Gold Boost, Criticals, Reaping, Salvaging, Strength, Lumber Boost, Mine Boost, Defense, Scavenging, Taming.
+ Dưới đây là các chỉ số có thể có để chỉ định điểm chỉ số với: `XP Boost`, `Gold Boost`, `Criticals`, `Reaping`, `Salvaging`, `Strength`, `Lumber Boost`, `Mine Boost`, `Defense`, `Scavenging`, `Taming`.
 
 
 
